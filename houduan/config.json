@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "1栋(1-5层)",
+      "rtsp_url": "rtsp://192.168.1.108:554/cam/realmonitor?channel=1&subtype=0",
+      "channel": 1,
+      "subtype": 0,
+      "username": "admin",
+      "password": "Admin123",
+      "enabled": true
+    }
+  ]
+}
